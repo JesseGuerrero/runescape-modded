@@ -23,5 +23,6 @@ Current Mods:<br>
 -Dungeoneering tokens tripled<br>
 -Charming imp added, talk to the rewards trader in Daemonheim<br>
 -No logout timer
+-Home is at Grand Exchange
 
 Accessible in the main lobby of Darkan at https://darkan.org/
