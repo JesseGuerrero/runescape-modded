@@ -21,6 +21,7 @@ Current Mods:<br>
 -Ability to strengthen a weapon with every kill(think Tinker's construct) AND trade it!<br>
 -Dungeoneering combat average reduced 10%<br>
 -Dungeoneering tokens tripled<br>
+-Charming imp added, talk to the rewards trader in Daemonheim<br>
 -No logout timer
 
 Accessible in the main lobby of Darkan at https://darkan.org/
