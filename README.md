@@ -22,7 +22,8 @@ Current Mods:<br>
 -Dungeoneering combat average reduced 10%<br>
 -Dungeoneering tokens tripled<br>
 -Charming imp added, talk to the rewards trader in Daemonheim<br>
--No logout timer
--Home is at Grand Exchange
+-No logout timer<br>
+-Home is at Grand Exchange<br>
+-Can use items on Death by the grand exchange to permanently name them<br><br>
 
 Accessible in the main lobby of Darkan at https://darkan.org/
