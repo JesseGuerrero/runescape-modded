@@ -14,7 +14,7 @@ A world server with modded features, world 4 on Darkan's public lobby.
 Current Mods:<br>
 -All base game features<br>
 -XP Rate: 3X<br>
--All Quests pre-finished<br>
+-All Quests pre-finished except Waterfall & Knights sword<br>
 -Automatic treasure trail opening<br>
 -Death coffers, recovery of items for 10k coins<br>
 -Group Ironman<br>
