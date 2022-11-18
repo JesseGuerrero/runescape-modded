@@ -28,6 +28,11 @@ Current Mods:<br>
 -Items dropped at gravestone do not degrade or turn to coins<br>
 -Abyssal demon drop blood talisman 1/200<br>
 -Reverted Skeletal Wyverns to previous drop table<br>
--Slayer points x3<br><br>
+-Slayer points x3<br>
+-Instanced bossing with scaling combat and tradeable loot that scales<br>
+<img src="https://i.imgur.com/4QbqZfD.png">
+<img src="https://i.imgur.com/E1exlcR.png">
+<img src="https://i.imgur.com/M6hbeaK.png">
+<img src="https://i.imgur.com/tKFZ95w.png">
 
 Accessible in the main lobby of Darkan at https://darkan.org/
