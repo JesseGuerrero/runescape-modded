@@ -19,7 +19,7 @@ Current Mods:<br>
 -Death coffers, recovery of items for 10k coins<br>
 -Group Ironman<br>
 -Ability to strengthen a weapon with every kill(think Tinker's construct) AND trade it!<br>
--Dungeoneering combat average reduced 10%<br>
+-Dungeoneering combat average reduced 10%, bosses reduced 30%, max combat level reduced 25%<br>
 -Dungeoneering tokens tripled<br>
 -Charming imp added, talk to the rewards trader in Daemonheim<br>
 -No logout timer<br>
