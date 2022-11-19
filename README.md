@@ -29,7 +29,7 @@ Current Mods:<br>
 -Abyssal demon drop blood talisman 1/200<br>
 -Reverted Skeletal Wyverns to previous drop table<br>
 -Slayer points x3<br>
--Instanced bossing with scaling combat and tradeable loot that scales<br>
+-Instanced bossing with scaling combat and tradeable loot that scales(Kalphite queen, bandos, saradomin, zamorak, armadyl)<br>
 <img src="https://i.imgur.com/4QbqZfD.png">
 <img src="https://i.imgur.com/E1exlcR.png">
 <img src="https://i.imgur.com/M6hbeaK.png">
