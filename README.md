@@ -11,7 +11,7 @@ A world server with modded features, world 4 on Darkan's public lobby.
 [bug-link]: https://github.com/titandino/darkan-world-server/issues
 [bug-badge]: https://img.shields.io/github/issues-raw/titandino/darkan-world-server/bug?label=open%20bugs
 
-<span style="font-size:13em;">Game modes</span><br>
+<span style="font-size:6em;">Game modes</span><br>
 You can choose a game mode at the beginning of the game for the world. <br><br>
 <b>GIM</b><br>
 -Tiered group iron man whereby you achieve tiers of accomplishment<br>
@@ -22,7 +22,7 @@ You can choose a game mode at the beginning of the game for the world. <br><br>
 -All Darkan quests available<br>
 -25x xp rate<br>
 <br>
-<span style="font-size:13em;">Custom Scape</span><br>
+<span style="font-size:6em;">Custom Scape</span><br>
 -25x up to 99 then 1x for all skills<br>
 -Quests pre-finished except waterfall & Knights Sword<br>
 -Ability to strengthen a weapon with every kill(think Tinker's construct) AND trade it<br>
@@ -36,7 +36,7 @@ You can choose a game mode at the beginning of the game for the world. <br><br>
 
 
 <br>
-<span style="font-size:13em;">Universal features</span><br>
+<span style="font-size:6em;">Universal features</span><br>
 -All base game features<br>
 -Automatic treasure trail opening<br>
 -Death coffers, recovery of items for 10k coins<br>
