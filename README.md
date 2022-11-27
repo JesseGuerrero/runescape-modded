@@ -36,7 +36,7 @@ You can choose a game mode at the beginning of the game for the world. <br><br>
 
 
 <br>
-<span style="font-size:13em;">Universal features</span>
+<span style="font-size:13em;">Universal features</span><br>
 -All base game features<br>
 -Automatic treasure trail opening<br>
 -Death coffers, recovery of items for 10k coins<br>
