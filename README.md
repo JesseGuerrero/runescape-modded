@@ -28,11 +28,7 @@ You can choose a game mode at the beginning of the game for the world. <br><br>
 -Ability to strengthen a weapon with every kill(think Tinker's construct) AND trade it<br>
 -Dungeoneering combat average reduced 20%, bosses reduced 40%, max combat level reduced 35%<br>
 -Can use items on Death by the grand exchange to permanently name them<br>
--Instanced bossing with scaling combat and tradeable loot that scales(Kalphite queen, bandos, saradomin, zamorak, armadyl, corp)<br>
-<img src="https://i.imgur.com/4QbqZfD.png">
-<img src="https://i.imgur.com/E1exlcR.png">
-<img src="https://i.imgur.com/M6hbeaK.png">
-<img src="https://i.imgur.com/tKFZ95w.png">
+-Instanced world<br>
 
 
 <br>
