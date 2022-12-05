@@ -45,6 +45,7 @@ You can choose a game mode at the beginning of the game for the world. <br><br>
 -Abyssal demon drop blood talisman 1/200<br>
 -Reverted Skeletal Wyverns to previous drop table<br>
 -Slayer points x3<br>
+-1.5x drop rate<br>
 
 
 Accessible in the main lobby of Darkan at https://darkan.org/
